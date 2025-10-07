@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="2339" height="3307" alt="edm 1,2-1" src="https://github.com/user-attachments/assets/e829ef4a-96d6-4d42-82f6-5fecca49cd4c" />
+ <img width="686" height="985" alt="image" src="https://github.com/user-attachments/assets/a2a873f4-6178-4106-aa71-c56fbbbed0aa" />
+
 
  
  
